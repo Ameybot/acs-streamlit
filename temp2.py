@@ -1,4 +1,3 @@
-from tkinter import font
 
 from matplotlib.axis import YAxis
 from requests import session
